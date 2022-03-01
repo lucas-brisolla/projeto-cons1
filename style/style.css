@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 1em;
+}
+
+
+h1{
+    font-size: 2.2em;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+h2{
+    font-size:1.5em;
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+}
+
+p{
+    font-size: 1.2em;
+    text-align: left;
+    font-weight: lighter;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+div.main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.box1{
+    background-image: url('../images/forest.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    box-shadow: inset 0px -20px 35px 5px rgba(0, 0, 0, 0.74);
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.438) ;
+    color: white;
+    padding: 20px;
+}
+
+
+div.box1 > nav{
+    text-align: center;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+div.box1 > nav > a {
+    padding: 15px;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: white;
+}
+
+div.box1 > nav > a:hover{
+    background-color: #003840;
+    color: rgb(167, 167, 167);
+    border-radius: 5px;
+    transition: .5s;
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.438) ;
+}
+
+div.conteudo > img{
+    display: block;
+    max-width: 485px;
+    margin: auto;
+    margin-top: 5px;
+    border: 5px solid #007369;
+    border-radius: 5px;
+}
+
+div.dados{
+    background-color: #02A676;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+div.caixa{
+    padding: 10px;
+    background-color: #003840;
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom:10px;
+    color: white;
+    font-size: 1.8em;
+}
+
+div.footer{
+    background-color: #003840;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
