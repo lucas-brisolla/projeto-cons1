@@ -35,6 +35,42 @@ p{
     font-weight: 300;
 }
 
+#modal_img{
+    width: 70vw;
+}
+
+.modal{
+    width: 100vw;
+    height: 100vw;
+    background-color: rgba(0, 0, 0, 0.74);
+    position: fixed;
+    visibility: hidden;
+}
+
+.modal_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#bt_close{
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 12px;
+    font-size: 25px;
+    border: solid 1px white;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.modal_active{
+    visibility: visible;
+}
+
 div.main{
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
@@ -58,12 +94,14 @@ div.box1 > h2{
 }
 
 div.box1 > h1#logo{
+    display: flex;
+    justify-content: left;
     font-family: 'Lobster', cursive;
 }
 
 div.box1 > nav{
-    text-align: center;
-    vertical-align: top;
+    display: flex;
+    justify-content: center;
     padding-top: 10px;
     padding-bottom: 20px;
 }
@@ -91,24 +129,26 @@ div.conteudo > img{
     margin-top: 5px;
     border: 5px solid #007369;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 div.dados{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     background-color: #02A676;
-    padding: 10px;
+    padding: 20px;
     margin-top: 10px;
 }
 
-div.caixa{
+div.container{
     padding: 10px;
     background-color: #003840;
     width: 200px;
     height: 200px;
     border: 5px solid white;
     border-radius: 5px;
-    margin: auto;
-    margin-top: 10px;
-    margin-bottom:10px;
+    margin: 10px;
     color: white;
     font-size: 1.8em;
 }
