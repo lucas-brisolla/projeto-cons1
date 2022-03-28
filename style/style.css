@@ -24,6 +24,13 @@ h2{
     margin: auto;
 }
 
+h3{
+    font-size: 1.1em;
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+}
+
 p{
     font-size: 1.2em;
     text-align: left;
@@ -142,13 +149,13 @@ div.dados{
 }
 
 div.container{
-    padding: 10px;
+    padding: 60px;
     background-color: #003840;
-    width: 200px;
-    height: 200px;
+    width: 350px;
+    height: 350px;
     border: 5px solid white;
     border-radius: 5px;
-    margin: 10px;
+    margin: 50px;
     color: white;
     font-size: 1.8em;
 }

@@ -1,0 +1,69 @@
+	Pesquisa sobre residuos sólidos
+	
+Conceito de Lixo(residuos sólidos):
+	popularmente conhecido como "lixo" residuos sólidos 
+	são todo tipo de objeto que foi descartado e 
+	se encontra no estado sólido, que não apresentam nenhuma utilidade para
+	quem o descartou, mas pode ser util para outras 
+	pessoas seja reutilizando ou reciclando
+	quando um residuo  se encontra na condição que 
+	não é mais possivel reutilizar ou reciclar
+	é dado o nome de rejeito .
+
+Tipos de Residuos:
+	Residuos sólidos urbano, domiciliares, orgânicos e 
+	inorgânicos, especiais, comercial, industrial, 
+	hospitalar, construção civil, nuclear, agro e 
+	transportes. Cada um com sua forma correta de ser 
+	descartada,
+
+Locais de descarte dos residuos sólidos:
+	Lixões: 
+		considerado a forma mais inadequada de se
+		descartar o lixo, pois o lixo é descartado a céu
+		aberto, sem nenhuma medida de proteção ao meio ambiente
+		e à saúde pública nem controle dos tipos de lixos
+		que são depositados o que contamina o solo e os 
+		lençóis freaticos; 
+	Coprocessamento: 
+		utiliza residuos industriais/urbanos
+		com o intuito de gerar energia e recuperar recursos
+		e diminuir o uso de combustiveis fósseis;
+	Incineradores:
+		reduz o lixo a cinzas, é utilizado quando está em 
+		uma condição de que não existem tratamentos para
+		esse residuo, é muito utilizado na Europa e
+		Japão reaproveitando do calor para gerar energia
+		elétrica, porem gera muitos gases do efeito
+		estufa;
+	Aterros sanitários:
+		considerados a melhor forma de se descartar o lixo,
+		pode ser descartado qualquer tipo de residuo, possui 
+		mantas imperemeabilizantes que impedem a infiltração
+		do chorume no solo e um controle dos tipos de residuos.		
+	
+		
+	
+
+	
+
+Dados:
+	Brasil é o 4° maior produtor de lixo no mundo; 
+	
+	O brasileiro produz em média 379,2 kg de lixo por ano
+	e 1 kg de lixo por dia;
+	
+	60% do lixo possui destinação adequada e 40% vai para
+	destinos inadequados;
+	
+	volume de plástico que vai para os oceanos é de cerca
+	10 milhões de toneladas, se continuar nesse ritimo
+	estima-se que em 2030 haverá aproximadamente
+	26.000 garrafs por km²;
+	
+	O plástico mata muitos animais pelo estrangulamento e
+	ingestão do plástico o que afeta a saúde humana
+	visto que nos alimentamos desses animais e acabamos nos
+	contaminando.
+	
+	
